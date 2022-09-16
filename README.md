@@ -2,7 +2,7 @@
 
 * Computer Vision methods are successful in many tasks. 
 
-  * We can training discrimination model if we know each image category, by using CNN based or ViT based.
+  * We can train discrimination model if we know each image category, by using CNN based or ViT based.
 
     ![figure](./figure01.png)
 
